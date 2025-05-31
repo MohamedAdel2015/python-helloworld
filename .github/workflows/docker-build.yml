@@ -42,4 +42,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: maabdelfattah/python-helloworld:latest
+          tags: maabdelfattah/python-helloworld:v1.1.0
